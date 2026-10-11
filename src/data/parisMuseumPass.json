@@ -1,0 +1,96 @@
+{
+  "post": {
+    "id": "paris-museum-pass-001",
+    "author": "Kae正在探索地图",
+    "title": "巴黎博物馆48H通票回本攻略",
+    "cover_image": "/images/paris-museum.jpg",
+    "body": [
+      {
+        "id": "p1",
+        "text": "48H通票售价70€，如果两天能刷到4个以上博物馆基本就回本。"
+      },
+      {
+        "id": "p2",
+        "text": "比较适合在巴黎待3天左右的人，可以把卢浮宫、奥赛、橘园等热门馆围绕通票安排行程。"
+      },
+      {
+        "id": "p3",
+        "text": "整体上会比单独购买门票划算，合理安排路线还能减少通勤时间。"
+      },
+      {
+        "id": "p4",
+        "text": "热门博物馆按照行程直接安排即可，通票能覆盖大部分主要景点。"
+      }
+    ],
+    "topics": ["#巴黎旅行", "#巴黎博物馆", "#巴黎攻略"],
+    "published_at": "2025-04-12",
+    "location": "法国·巴黎",
+    "comments_preview": [
+      { "id": "c1", "author": "南瓜在旅行", "text": "奥赛和橘园放在同一天逛会不会太赶？", "date": "2025-04-15" },
+      { "id": "c2", "author": "阿鱼的出走日记", "text": "这篇路线讲得好清楚，先收藏了！", "date": "2025-04-18" }
+    ],
+    "stats": { "likes": 99, "favorites": 164, "comments": 9 }
+  },
+  "freshness_summary": {
+    "hasRisk": true,
+    "riskCount": 3,
+    "title": "发现3项时效变化",
+    "subtitle": "2项直接影响购票与行程，1项影响原攻略结论"
+  },
+  "updates": [
+    {
+      "id": "update-price",
+      "title": "48H博物馆通票价格",
+      "type": "changed",
+      "status_label": "已更新",
+      "original_text": "48H通票售价70€",
+      "current_text": "当前48H通票价格为85€",
+      "summary_old": "70€",
+      "summary_new": "85€",
+      "impact": "票价变化会直接影响原帖“4馆即可回本”的判断。",
+      "source_type": "官方信息",
+      "source_name": "Paris Museum Pass",
+      "source_date": "2026",
+      "source_reason": "官方当前公布的48H通票价格为85€，与原帖记录的70€不一致。",
+      "confidence": "high",
+      "target_paragraph_id": "p1",
+      "highlight_text": "48H通票售价70€"
+    },
+    {
+      "id": "update-reservation",
+      "title": "热门馆预约规则",
+      "type": "changed",
+      "status_label": "已更新",
+      "original_text": "热门博物馆按照行程直接安排即可",
+      "current_text": "卢浮宫、凡尔赛宫、奥赛等热门馆建议提前在官网预约时间段。",
+      "summary_old": "按原行程直接安排",
+      "summary_new": "部分热门馆建议提前预约",
+      "impact": "没有提前预约时，即使持有通票，也可能无法按照原计划进入部分热门馆。",
+      "source_type": "近期攻略 + 官方预约规则",
+      "source_name": "近期旅行信息",
+      "source_date": "2026",
+      "source_reason": "卢浮宫、凡尔赛宫、奥赛等热门馆建议提前预约入馆时段，直接按原行程安排可能无法顺利入馆。",
+      "confidence": "high",
+      "target_paragraph_id": "p4",
+      "highlight_text": "热门博物馆按照行程直接安排即可"
+    },
+    {
+      "id": "update-value",
+      "title": "4馆回本结论",
+      "type": "recalculate",
+      "status_label": "待重算",
+      "original_text": "如果两天能刷到4个以上博物馆基本就回本",
+      "current_text": "由于通票价格已经上涨，原“4馆基本回本”的结论需要根据当前单馆票价重新计算。",
+      "summary_old": "刷4馆基本回本",
+      "summary_new": "需要根据当前票价重新计算",
+      "impact": "用户不能再直接根据原帖结论决定是否购买通票。",
+      "source_type": "AI基于价格变化推导",
+      "source_name": "由价格变化影响原结论",
+      "source_date": "2026",
+      "source_reason": "原帖的“4馆基本回本”以70€通票价格为前提；价格变为85€后，需结合各馆当前票价重新计算。",
+      "confidence": "medium",
+      "target_paragraph_id": "p1",
+      "highlight_text": "4个以上博物馆基本就回本"
+    }
+  ]
+}

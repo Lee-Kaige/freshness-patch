@@ -1,0 +1,75 @@
+{
+  "post": {
+    "id": "athens-combo-ticket-001",
+    "author": "远方的路和风景",
+    "title": "雅典卫城联票的推荐玩法",
+    "cover_image": "/images/athens-acropolis.jpg",
+    "body": [
+      {
+        "id": "athens-p1",
+        "text": "到雅典卫城建议提前网上订票，单独购买卫城门票是20€。"
+      },
+      {
+        "id": "athens-p2",
+        "text": "如果计划深度游，可以购买30€的多景点联票，除了卫城，还包括古代市集、罗马市集、哈德良图书馆等多个景点。"
+      },
+      {
+        "id": "athens-p3",
+        "text": "如果准备在雅典多逛几个古迹，联票会比单独购买各景点门票划算很多。"
+      }
+    ],
+    "topics": ["#雅典旅行", "#雅典卫城", "#希腊旅行", "#雅典攻略"],
+    "publish_meta": "旧攻略 · 雅典",
+    "comments_preview": [
+      { "id": "athens-c1", "author": "卷卷去雅典", "avatar": "/images/comment-avatars/athens-1.png", "text": "联票现在已经买不到了吗？幸好出发前看到了提醒。", "date": "2天前" },
+      { "id": "athens-c2", "author": "小岛计划", "avatar": "/images/comment-avatars/athens-2.png", "text": "卫城门票涨到30€了，预算得重新算一下。", "date": "3天前" },
+      { "id": "athens-c3", "author": "coco看世界", "avatar": "/images/comment-avatars/athens-3.png", "text": "古代市集和罗马市集安排同一天会不会太赶？", "date": "5天前" },
+      { "id": "athens-c4", "author": "灯塔散步", "avatar": "/images/comment-avatars/athens-4.png", "text": "傍晚看卫城真的很美，记得提前预约时段。", "date": "1周前" }
+    ],
+    "stats": { "likes": 166, "favorites": 280, "comments": 12 }
+  },
+  "freshness_summary": {
+    "hasRisk": true,
+    "riskCount": 2,
+    "title": "发现2项关键变化",
+    "subtitle": "原攻略中的核心购票方案已经失效"
+  },
+  "updates": [
+    {
+      "id": "athens-combo-ticket-invalid",
+      "title": "雅典多景点联票",
+      "type": "invalid",
+      "status_label": "已失效",
+      "original_text": "30€的多景点联票",
+      "current_text": "原多景点联票已停止作为当前官方购票方案销售，需要根据计划分别购买各景点门票。",
+      "summary_old": "30€ 多景点联票",
+      "summary_new": "已停止销售",
+      "impact": "原攻略推荐的联票游览方案已无法按原方式执行。",
+      "source_type": "官方票务政策 + 当前官方售票信息",
+      "source_name": "Hellenic Heritage / 希腊文化部官方信息",
+      "source_date": "2026",
+      "source_reason": "当前官方售票体系已不再提供原帖所述的30€多景点联票，因此原攻略中的联票购票方案不能继续执行。",
+      "confidence": "high",
+      "target_paragraph_id": "athens-p2",
+      "highlight_text": "30€的多景点联票"
+    },
+    {
+      "id": "athens-acropolis-price-changed",
+      "title": "雅典卫城成人票",
+      "type": "changed",
+      "status_label": "已更新",
+      "original_text": "单独购买卫城门票是20€",
+      "current_text": "当前雅典卫城官方全价票为30€。",
+      "summary_old": "20€",
+      "summary_new": "30€",
+      "impact": "卫城单票价格上涨，原攻略中的旅行预算需要重新计算。",
+      "source_type": "官方票务信息",
+      "source_name": "Hellenic Heritage 官方",
+      "source_date": "2026",
+      "source_reason": "当前官方全价票为30€，与原帖记录的20€不同，因此将该信息标记为已更新。",
+      "confidence": "high",
+      "target_paragraph_id": "athens-p1",
+      "highlight_text": "单独购买卫城门票是20€"
+    }
+  ]
+}

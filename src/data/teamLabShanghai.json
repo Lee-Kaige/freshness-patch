@@ -1,0 +1,65 @@
+{
+  "post": {
+    "id": "teamlab-shanghai-001",
+    "author": "蝴蝶兰",
+    "title": "艺术鉴赏｜teamLab里的人与自然",
+    "cover_image": "/images/teamlab-borderless.webp",
+    "body": [
+      {
+        "id": "teamlab-p1",
+        "text": "teamLab Borderless Shanghai 是一个沉浸式数字艺术空间，展馆中的作品没有明确边界，会随着人的移动不断延伸和变化。"
+      },
+      {
+        "id": "teamlab-p2",
+        "text": "上海的teamLab无界美术馆很适合慢慢体验，如果喜欢数字艺术和沉浸式装置，可以预留2到3个小时参观。"
+      },
+      {
+        "id": "teamlab-p3",
+        "text": "场馆位于上海花园港路一带，比较适合和周边行程安排在一起。"
+      }
+    ],
+    "topics": ["#艺术无边界", "#teamLab", "#上海展览", "#数字艺术", "#上海旅行"],
+    "publish_meta": "旧攻略 · 上海",
+    "comments_preview": [
+      {
+        "id": "teamlab-author-update-comment",
+        "author": "蝴蝶兰",
+        "badge": "作者",
+        "avatar": "/images/comment-avatars/teamlab-author.png",
+        "text": "teamLab上海大约在2019年底开业，原场馆已于2024年2月底结束运营。刚开的时候这篇写的是常驻，后来没有继续运营。",
+        "date": "作者后续补充",
+        "likes": 1
+      }
+    ],
+    "stats": { "likes": 19, "favorites": 11, "comments": 1 }
+  },
+  "freshness_summary": {
+    "hasRisk": true,
+    "riskCount": 1,
+    "alert_description": "检测到1项重大时效变化",
+    "title": "发现1项重大变化",
+    "subtitle": "原攻略中的到访地点已无法继续按原方式前往"
+  },
+  "updates": [
+    {
+      "id": "teamlab-location-invalid",
+      "title": "上海teamLab Borderless",
+      "type": "invalid",
+      "status_label": "已失效",
+      "original_text": "上海的teamLab无界美术馆很适合慢慢体验",
+      "current_text": "原上海teamLab Borderless场馆已于2024年2月底结束运营。",
+      "summary_old": "原上海场馆可前往参观",
+      "summary_new": "原场馆已结束运营",
+      "inline_old": "上海teamLab Borderless",
+      "impact": "如果用户按照旧攻略安排上海行程，将无法再前往原场馆参观。",
+      "source_type": "原作者后续评论 + 场馆运营信息",
+      "source_name": "原作者后续补充",
+      "source_date": "2024-02",
+      "source_reason": "原作者在旧帖评论区后续补充：上海teamLab Borderless原场馆已于2024年2月底结束运营，因此原攻略中的到访信息已经失效。",
+      "source_comment_id": "teamlab-author-update-comment",
+      "confidence": "high",
+      "target_paragraph_id": "teamlab-p2",
+      "highlight_text": "上海的teamLab无界美术馆很适合慢慢体验"
+    }
+  ]
+}

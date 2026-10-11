@@ -1,0 +1,21 @@
+# Dependencies, build output, and local tooling
+node_modules/
+dist/
+release/
+.pnpm-store/
+.vercel/
+.cache/
+.vite/
+*.tsbuildinfo
+*.zip
+
+# Local configuration and temporary files
+.env
+.env.*
+*.log
+*.tmp
+*.temp
+*.swp
+*~
+.DS_Store
+Thumbs.db
